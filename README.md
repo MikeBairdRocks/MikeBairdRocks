@@ -1,6 +1,6 @@
 # Michael Baird - @MikeBairdRocks
 
-Hi, I'm Michael -- A Software Architect
+Hi, I'm Michael -- Father, husband, programmer, software architect, artist, designer, 🏀 player and yankee (NY) living in the south.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MikeBairdRocks)](https://github.com/MikeBairdRocks)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MikeBairdRocks)](https://twitter.com/MikeBairdRocks)
