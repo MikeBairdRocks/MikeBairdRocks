@@ -4,7 +4,7 @@ I am a father, husband, programmer, software architect, artist, designer, 🏀 p
 
 ### Overview
 
-- 🔭 I’m currently working on ... A Feature Flag Platform: Dark Dispatcher](https://github.com/darkdispatcher/darkdispatcher)
+- 🔭 I’m currently working on ... A Feature Flag Platform: [Dark Dispatcher](https://github.com/darkdispatcher/darkdispatcher)
 - 📝 I write stuff at [baird.rocks](https://baird.rocks)
 - 🌱 I’m currently learning ... Marten, GoLang, GatsbyJS
 - 🤔 I’m looking for help with ... https://github.com/darkdispatcher/darkdispatcher
