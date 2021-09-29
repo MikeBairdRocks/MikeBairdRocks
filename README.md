@@ -1,8 +1,19 @@
-## Hi there, I'm Michael Baird
+## Hi there 👋🏻, I'm Michael Baird
 
 I am a father, husband, programmer, software architect, artist, designer, 🏀 player and yankee (NY) living in the south.
 
-## How to find me
+### Overview
+
+- 🔭 I’m currently working on ... A Feature Flag Platform: Dark Dispatcher](https://github.com/darkdispatcher/darkdispatcher)
+- 📝 I write stuff at [baird.rocks](https://baird.rocks)
+- 🌱 I’m currently learning ... Marten, GoLang, Next
+- 👯 I’m looking to collaborate on ... https://github.com/johnpapa/hello-worlds
+- 🤔 I’m looking for help with ... https://github.com/darkdispatcher/darkdispatcher
+- 💬 Ask me about ... https://github.com/darkdispatcher/darkdispatcher
+- 📫 How to reach me: ... https://twitter.com/MikeBairdRocks
+- ⚡ Fun fact: ... All things Disney
+
+### How to find me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MikeBairdRocks)](https://github.com/MikeBairdRocks)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MikeBairdRocks)](https://twitter.com/MikeBairdRocks)
