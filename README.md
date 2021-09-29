@@ -6,12 +6,10 @@ I am a father, husband, programmer, software architect, artist, designer, 🏀 p
 
 - 🔭 I’m currently working on ... A Feature Flag Platform: Dark Dispatcher](https://github.com/darkdispatcher/darkdispatcher)
 - 📝 I write stuff at [baird.rocks](https://baird.rocks)
-- 🌱 I’m currently learning ... Marten, GoLang, Next
-- 👯 I’m looking to collaborate on ... https://github.com/johnpapa/hello-worlds
+- 🌱 I’m currently learning ... Marten, GoLang, GatsbyJS
 - 🤔 I’m looking for help with ... https://github.com/darkdispatcher/darkdispatcher
 - 💬 Ask me about ... https://github.com/darkdispatcher/darkdispatcher
 - 📫 How to reach me: ... https://twitter.com/MikeBairdRocks
-- ⚡ Fun fact: ... All things Disney
 
 ### How to find me
 
