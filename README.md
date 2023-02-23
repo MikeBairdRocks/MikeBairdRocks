@@ -9,7 +9,6 @@ I am a father, husband, programmer, software architect, artist, designer, 🏀 p
 - 🌱 I’m currently learning ... Marten, NextJS, Remix
 - 🤔 I’m looking for help with ... https://github.com/darkdispatcher/darkdispatcher
 - 💬 Ask me about ... https://github.com/darkdispatcher/darkdispatcher
-- 📫 How to reach me: ... https://twitter.com/MikeBairdRocks
 
 ### How to find me
 
